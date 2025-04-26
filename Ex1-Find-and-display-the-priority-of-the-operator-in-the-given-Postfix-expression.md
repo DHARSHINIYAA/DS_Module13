@@ -5,6 +5,7 @@ To write a C program to find and display the priority of the operator in the giv
 
 ## Algorithm:
 
+
 1. Start the program.
    
 2.Define a function priority(op) that returns the priority level of a given operator.
