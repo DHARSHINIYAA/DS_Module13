@@ -15,7 +15,6 @@ operators.
 
 ## Program:
 ```
-/*
 Program to convert the infix expression into postfix expression
 #include<stdio.h>
 #include<ctype.h>
@@ -97,7 +96,7 @@ return 1;
 
 Developed by: DHARSHINIYAA KS
 RegisterNumber: 202223100004 
-*/
+
 ```
 
 ## Output:
