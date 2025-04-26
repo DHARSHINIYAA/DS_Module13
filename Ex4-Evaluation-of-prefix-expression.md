@@ -3,7 +3,8 @@
 ## AIM:
 To write a C function to evaluate the given prefix expression using stack and print the output of the given prefix expression from the stack inside the function . 
 
-## Algorithm
+## Algorithm:
+
 1.Start the program.
 
 2.Initialize an empty stack s and a variable top to track the top index of the stack.
